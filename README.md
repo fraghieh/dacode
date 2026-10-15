@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="Dacode. Write code on your phone. Press Run. Done." width="100%">
+# Dacode
 
-<br>
+### Write code on your phone. Press Run. Done.
+
+Python, Node.js, PHP, C, C++ and Java, with its own Linux inside.
 
 [![Release](https://img.shields.io/badge/release-v0.1-2ea44f?style=for-the-badge)](https://github.com/fraghieh/dacode/releases/tag/v0.1)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#requirements)
